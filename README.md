@@ -1,7 +1,8 @@
 # Python_Election_Analysis
 Python Election Analysis 
 
-Analysis of election results using Python
+
+## Analysis of election results using Python
 1. Printed to the Command Line
     I used the Visual Studio Code terminal editor to show the results of each update as I wrote the code.
 2. Saved to a txt file
@@ -9,14 +10,20 @@ Analysis of election results using Python
 3. Written Analysis of the Election
     The election shows that Denver had the greatest input of votes cast. Jefferson was second highest, though still far behind Denvers, and Arapahoe came in last. The Winner of the election was Diana Degette with 272,892 total votes.
 
+
+## Expected Output:
 ![Expected Output](./Images/Expected_Outcome.png)
+
 
 # Resources
 * Data Source: election_results.csv
 * Software: Python 3.9.9; Visual Studio Code 1.63.2
 
+
 ## Election-Audit Results:
-    This heading is redundant as the information requested is listed in the next section.
+* My results
+![my analysis](./Images/My_Outcomes.png)
+
 
 ## Specified "Asks:"
 * How many votes were cast in this election
@@ -41,8 +48,5 @@ Analysis of election results using Python
         Denver
 
 
-## Results as recorded in my election_analysis.txt file
-![my analysis](./Images/My_Outcomes.png)
-
 ## Election-Audit Python Code Summary
-    The Python Code can be re-used in future elections or more counties. It was not hard to write, though it did take time as we assessed the requirements needed. 
+* The Python Code can be re-used in future elections or more counties. It was not hard to write, though it did take time as we assessed the requirements needed. 
